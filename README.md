@@ -1,6 +1,6 @@
 # Windows-Idle-Control
 
-Utility to automatically logoff, shutdown, poweroff or reboot Windows machine.
+Utility to automatically logoff, shutdown, poweroff or reboot Windows machine after Windows system inactivity.
 
 ## Settings
 
